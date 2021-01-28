@@ -1,0 +1,52 @@
+{
+    "products":[
+        {
+            "_id": "dress1",
+            "image": "/images/images1.jpeg",
+            "title": "Rotita Yellow Sleeveless",
+            "description": "This is for all he latest trend",
+            "availableSizes": ["XXS", "S","M","L","X", "XL"],
+            "price": 29.9
+        },
+        {
+            "_id": "dress2",
+            "image": "/images/images2.jpeg",
+            "title": "Midi Dress with shirring detail",
+            "description": "This is for all the latest trend",
+            "availableSizes": ["XXS", "S","M","L","X", "XL"],
+            "price": 30.9
+        },
+        {
+            "_id": "dress4",
+            "image": "/images/images4.jpeg",
+            "title": "Pink French Countryside Blush",
+            "description": "This is for all the latest trend",
+            "availableSizes": ["XXS", "S","M","L","X", "XL"],
+            "price": 40.9
+        },
+        {
+            "_id": "dress5",
+            "image": "/images/images5.jpeg",
+            "title": "Floral dress",
+            "description": "This is for all the latest trend",
+            "availableSizes": ["XXS", "S","M","L","X", "XL"],
+            "price": 25.9
+        },
+        {
+            "_id": "dress6",
+            "image": "/images/images6.jpeg",
+            "title": "ASOS Design",
+            "description": "This is for all the latest trend",
+            "availableSizes": ["XXS", "S","M","L","X", "XL"],
+            "price": 32.9
+        },
+        {
+            "_id": "dress8",
+            "image": "/images/images8.jpeg",
+            "title": "Classic Dress",
+            "description": "This is for all he latest trend",
+            "availableSizes": ["XXS", "S","M","L","X", "XL"],
+            "price": 42.9
+        }
+    ]
+}
