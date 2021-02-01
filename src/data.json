@@ -13,7 +13,7 @@
             "image": "/images/images2.jpeg",
             "title": "Midi Dress with shirring detail",
             "description": "This is for all the latest trend",
-            "availableSizes": ["XXS", "S","M","L","X", "XL"],
+            "availableSizes": ["XXS","XS","M","L","X", "XL"],
             "price": 30.9
         },
         {
@@ -21,7 +21,7 @@
             "image": "/images/images4.jpeg",
             "title": "Pink French Countryside Blush",
             "description": "This is for all the latest trend",
-            "availableSizes": ["XXS", "S","M","L","X", "XL"],
+            "availableSizes": ["XXS", "S","L","X"],
             "price": 40.9
         },
         {
@@ -29,7 +29,7 @@
             "image": "/images/images5.jpeg",
             "title": "Floral dress",
             "description": "This is for all the latest trend",
-            "availableSizes": ["XXS", "S","M","L","X", "XL"],
+            "availableSizes": ["XXS", "S","M","L","X", "XL","XXL"],
             "price": 25.9
         },
         {
@@ -37,7 +37,7 @@
             "image": "/images/images6.jpeg",
             "title": "ASOS Design",
             "description": "This is for all the latest trend",
-            "availableSizes": ["XXS", "S","M","L","X", "XL"],
+            "availableSizes": ["XXS","XS","S","M","L","X", "XL"],
             "price": 32.9
         },
         {
